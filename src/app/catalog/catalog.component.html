@@ -1,0 +1,9 @@
+
+<div  class="card" *ngFor="let category of catalog; let i=index">
+    <div class="card-header"> {{category.name}} </div>
+    <div class="card-body"> 
+        <app-products [products]="category.products" ></app-products>
+    </div>
+
+   
+</div>

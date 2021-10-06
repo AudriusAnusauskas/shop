@@ -1,0 +1,7 @@
+Katalogas
+    prekes
+        uzsakyti preke
+
+Vartotojai
+    vartotojouzsakymai
+    prideti vartotoja
